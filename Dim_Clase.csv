@@ -1,0 +1,31 @@
+id_Clase,Nombre_Clase,Unidades,Modalidad
+1,Leadership,3,Face-to-Face
+2,Latin,4,Face-to-Face
+3,Dramatics,3,Face-to-Face
+4,American Literature,5,Online Synchronous 
+5,German,3,Online Synchronous 
+6,Accounting,6,Online Synchronous 
+7,Music,6,Online Synchronous 
+8,Database Administration,5,Online Synchronous 
+9,Biochemistry,6,Hybrid
+10,Mathematics,4,Online Asynchronous
+11,Chemistry,4,Online Asynchronous
+12,Geography,3,Online Asynchronous
+13,Ecology,3,Online Synchronous 
+14,Anthropology,3,Online Asynchronous
+15,Art,3,Online Synchronous 
+16,Handwriting,5,Online Synchronous 
+17,Spanish,3,Face-to-Face
+18,Basic Math,4,Face-to-Face
+19,Probability and Statistics,6,Hybrid
+20,Speech,4,Face-to-Face
+21,Fluid Mechanics,5,Face-to-Face
+22,Structural designing,4,Face-to-Face
+23,Programming and problem solving,4,Hybrid
+24,Calculus,5,Hybrid
+25,Finance,4,Face-to-Face
+26,Microeconomics,4,Face-to-Face
+27,Business law,3,Face-to-Face
+28,Reporting Methods,5,Hybrid
+29,Introduction to Mass Communication,4,Hybrid
+30,genetics,6,Face-to-Face
